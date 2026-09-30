@@ -3,8 +3,8 @@ import time
 from datetime import datetime
 
 # بيانات بوت التليجرام الخاص بك
-TELEGRAM_BOT_TOKEN = 'YOUR_BOT_TOKEN_HERE'
-TELEGRAM_CHAT_ID = 'YOUR_CHAT_ID_HERE'
+TELEGRAM_BOT_TOKEN = '8980621787:AAECwPw7PdnOLtV5rWfjLDoPAOpTnRsqzxk'
+TELEGRAM_CHAT_ID = '1794431204'
 
 # قائمة لتتبع العملات التي تم تنبيهها منعاً للتكرار المزعج
 alerted_coins = {}
